@@ -165,9 +165,9 @@ fe
 │  │  │  ├─ RegisterSchool.tsx
 │  │  │  ├─ RegisterForm.tsx
 │  │  │  └─ Transaction.tsx
-|  |  ├─ About.tsx
-|  |  ├─ Disclaimer.tsx
-|  |  ├─ Team.tsx
+│  │  ├─ About.tsx
+│  │  ├─ Disclaimer.tsx
+│  │  ├─ Team.tsx
 │  │  └─ index.tsx
 │  ├─ routes
 │  │  └─ index.tsx
